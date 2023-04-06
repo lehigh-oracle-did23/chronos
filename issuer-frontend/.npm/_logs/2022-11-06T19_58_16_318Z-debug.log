@@ -1,0 +1,16 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'start' ]
+2 info using npm@6.14.13
+3 info using node@v14.17.1
+4 verbose config Skipping project config: /Users/alexdalessandro/Desktop/Capstone2022Fall/issuer-frontend/.npmrc. (matches userconfig)
+5 verbose run-script [ 'prestart', 'start', 'poststart' ]
+6 info lifecycle issuer-frontend@0.1.0~prestart: issuer-frontend@0.1.0
+7 info lifecycle issuer-frontend@0.1.0~start: issuer-frontend@0.1.0
+8 verbose lifecycle issuer-frontend@0.1.0~start: unsafe-perm in lifecycle true
+9 verbose lifecycle issuer-frontend@0.1.0~start: PATH: /usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/Users/alexdalessandro/Desktop/Capstone2022Fall/issuer-frontend/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/Cellar/gambit-scheme/4.9.3_2/v4.9.3/bin:/Users/alexdalessandro/Desktop/WadeAlexFullStack/bluebook/src/scripts/chromedriver:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/opt/homebrew/opt/openssl@3/bin:/Users/alexdalessandro/opt/anaconda3/bin:/Users/alexdalessandro/opt/anaconda3/condabin
+10 verbose lifecycle issuer-frontend@0.1.0~start: CWD: /Users/alexdalessandro/Desktop/Capstone2022Fall/issuer-frontend
+11 silly lifecycle issuer-frontend@0.1.0~start: Args: [ '-c', 'react-scripts start' ]
+12 timing npm Completed in 60471ms
+13 error cb() never called!
+14 error This is an error with npm itself. Please report this error at:
+15 error <https://npm.community>

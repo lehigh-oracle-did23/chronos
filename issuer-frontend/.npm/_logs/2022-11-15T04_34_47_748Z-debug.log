@@ -1,0 +1,35 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'start' ]
+2 info using npm@6.14.13
+3 info using node@v14.17.1
+4 verbose config Skipping project config: /Users/alexdalessandro/Desktop/Capstone2022Fall/issuer-frontend/.npmrc. (matches userconfig)
+5 verbose run-script [ 'prestart', 'start', 'poststart' ]
+6 info lifecycle issuer-frontend@0.1.0~prestart: issuer-frontend@0.1.0
+7 info lifecycle issuer-frontend@0.1.0~start: issuer-frontend@0.1.0
+8 verbose lifecycle issuer-frontend@0.1.0~start: unsafe-perm in lifecycle true
+9 verbose lifecycle issuer-frontend@0.1.0~start: PATH: /usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/Users/alexdalessandro/Desktop/Capstone2022Fall/issuer-frontend/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/alexdalessandro/opt/anaconda3/bin:/Users/alexdalessandro/opt/anaconda3/condabin
+10 verbose lifecycle issuer-frontend@0.1.0~start: CWD: /Users/alexdalessandro/Desktop/Capstone2022Fall/issuer-frontend
+11 silly lifecycle issuer-frontend@0.1.0~start: Args: [ '-c', 'react-scripts start' ]
+12 silly lifecycle issuer-frontend@0.1.0~start: Returned: code: 1  signal: null
+13 info lifecycle issuer-frontend@0.1.0~start: Failed to exec start script
+14 verbose stack Error: issuer-frontend@0.1.0 start: `react-scripts start`
+14 verbose stack Exit status 1
+14 verbose stack     at EventEmitter.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/index.js:332:16)
+14 verbose stack     at EventEmitter.emit (events.js:375:28)
+14 verbose stack     at ChildProcess.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/lib/spawn.js:55:14)
+14 verbose stack     at ChildProcess.emit (events.js:375:28)
+14 verbose stack     at maybeClose (internal/child_process.js:1055:16)
+14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+15 verbose pkgid issuer-frontend@0.1.0
+16 verbose cwd /Users/alexdalessandro/Desktop/Capstone2022Fall/issuer-frontend
+17 verbose Darwin 20.6.0
+18 verbose argv "/usr/local/bin/node" "/usr/local/bin/npm" "start"
+19 verbose node v14.17.1
+20 verbose npm  v6.14.13
+21 error code ELIFECYCLE
+22 error errno 1
+23 error issuer-frontend@0.1.0 start: `react-scripts start`
+23 error Exit status 1
+24 error Failed at the issuer-frontend@0.1.0 start script.
+24 error This is probably not a problem with npm. There is likely additional logging output above.
+25 verbose exit [ 1, true ]
