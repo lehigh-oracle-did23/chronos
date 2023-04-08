@@ -1,6 +1,7 @@
 # dependencies
 /node_modules
 db.sqlite
+**/package-lock.json
 
 # testing
 /coverage
